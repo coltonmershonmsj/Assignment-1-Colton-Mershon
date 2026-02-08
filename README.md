@@ -1,4 +1,3 @@
-# Assignment-1-Colton-Mershon
 <!DOCTYPE html>
 <html lang="en">
 <head>
