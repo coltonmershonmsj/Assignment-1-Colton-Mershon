@@ -34,7 +34,7 @@
         and the use of information systems to support public safety and informed decision-making.
     </p>
 
-    <img src="data-analysis.jpg" alt="Data charts and analytics displayed on a computer screen" width="400" height="300">
+    <img src="data-analysis.jpg.png" alt="Data charts and analytics displayed on a computer screen" width="400" height="300">
 </section>
 
 <footer>
