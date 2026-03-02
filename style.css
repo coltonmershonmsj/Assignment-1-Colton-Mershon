@@ -1,85 +1,68 @@
-/* ===================================== */
 /* BODY STYLING */
-/* ===================================== */
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    background-color: #f4f4f4;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 1.6;
+margin: 0;
+background-color: #f4f4f4;
 }
 
 
-
-/* ===================================== */
 /* STICKY HEADER */
-/* ===================================== */
 
 .site-header {
-    position: sticky;
-    top: 0;
-    background-color: #222;
-    color: white;
-    padding: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+position: sticky;
+top: 0;
+background-color: #222;
+color: white;
+padding: 15px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
 
 
-
-/* ===================================== */
 /* NAVIGATION MENU */
-/* ===================================== */
 
 nav {
-    margin-top: 10px;
+margin-top: 10px;
 }
 
 nav a {
-    color: white;
-    text-decoration: none;
-    margin-right: 20px;
-    font-weight: bold;
+color: white;
+text-decoration: none;
+margin-right: 20px;
+font-weight: bold;
 }
-
-/* Hover effect */
 
 nav a:hover {
-    color: #ffd700;
+color: #ffd700;
 }
 
 
-
-/* ===================================== */
-/* CENTER MAIN CONTENT WITH FLEXBOX */
-/* ===================================== */
+/* CENTER CONTENT */
 
 .main-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 60px;
 }
 
 
-
-/* Content box styling */
+/* CONTENT BOX */
 
 .content-box {
-    max-width: 700px;
-    background: white;
-    padding: 30px;
-    border-radius: 10px;
+max-width: 700px;
+background: white;
+padding: 30px;
+border-radius: 10px;
 }
 
 
-
-/* ===================================== */
 /* FOOTER */
-/* ===================================== */
 
 .site-footer {
-    background-color: #222;
-    color: white;
-    text-align: center;
-    padding: 15px;
+background-color: #222;
+color: white;
+text-align: center;
+padding: 15px;
 }
